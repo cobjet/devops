@@ -1,3 +1,5 @@
 [user]
-	email = alex2006hw@gmail.com
-	name = Alex Davis
+	email = admin@cobjet.com
+	name = Cobjet Admin
+[push]
+	default = simple
