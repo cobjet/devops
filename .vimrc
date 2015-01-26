@@ -3,8 +3,7 @@
 " curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 
 " Neobundle needs to be installed
-" git clone https://github.com/Shougo/neobundle.vim
-" ~/.vim/bundle/neobundle.vim
+" git clone https://github.com/Shougo/neobundle.vim ~/.vim/bundle/neobundle.vim
 
 " Do not emulate vi
 set nocompatible
