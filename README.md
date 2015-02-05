@@ -1,13 +1,15 @@
 devops
 ======
 
-Todo:
+This is a template for the devops user home account and had been tested on these operating systems.
 
-- vimrc : pathogen and neobundle needs to be installed manually for now
-```
- mkdir -p ~/.vim/autoload ~/.vim/bundle && \
- curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+#### Operating Systems
+- linux with bash shell
 
- git clone https://github.com/Shougo/neobundle.vim
- ~/.vim/bundle/neobundle.vim
-```
+#### Attributes
+### Tools
+- n for nodejs version mangement
+
+### login message
+- change .motd for messages to display upon log-in
+
