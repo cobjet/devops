@@ -3,6 +3,7 @@
 .viminfo
 .vim
 .local
+.npm
 dev
 tmp
 work
