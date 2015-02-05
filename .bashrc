@@ -116,3 +116,11 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# enable Neobundle for vim
+[ ! -d ~/.vim ] && echo "-=== Installing vim dependcy Neobundle ===-" \
+  && mkdir -p ~/.vim/autoload ~/.vim/bundle && curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim \
+  && git clone https://github.com/Shougo/neobundle.vim ~/.vim/bundle/neobundle.vim
+
+# showing message once logged in
+[ -f ~/.motd ] && cat ~/.motd
