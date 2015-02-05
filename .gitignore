@@ -3,6 +3,7 @@
 .cache
 .viminfo
 .vim
+.local
 dev
 tmp
 work
