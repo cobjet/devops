@@ -3,3 +3,8 @@
 .cache
 .viminfo
 .vim
+dev
+tmp
+work
+src
+log
