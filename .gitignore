@@ -4,7 +4,10 @@
 .vim
 .local
 .npm
+.node-gyp
 dev
+prod
+qa
 tmp
 work
 src
