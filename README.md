@@ -7,9 +7,9 @@ This is a template for the devops user home account and had been tested on these
 - linux with bash shell
 
 #### Attributes
-### Tools
+##### Tools
 - n for nodejs version mangement
 
-### login message
+##### login message
 - change .motd for messages to display upon log-in
 
