@@ -719,3 +719,146 @@ cd
 ls
 w
 whois wixproducts.com
+w
+ps -ef
+ifconfig
+ls
+cd dev
+ls
+cd eval10
+mkdir eval10
+cd eval10/
+git clone https://github.com/marmelab/AsteroidTilt.git
+cd AsteroidTilt/
+ls
+npm i
+ls
+more README.md 
+ls
+ifconfig
+nodemon
+ls
+cd ..
+ls
+ps -ef
+w
+ls
+ps -ef
+cd
+clear
+w
+ps -ef
+ls
+cd
+w
+ls
+ls -lat
+git status
+more .mongorc.js 
+more .dbshell 
+git add -A .
+git commit -m updated
+git push
+clear
+ls
+w
+ps -ef
+w
+ps -ef
+docker
+ls
+sudo apt-get install docker
+ps -e
+pef -ef
+ps -ef
+w
+ps -ef
+exit
+w
+ps
+ps -ef |grep docker
+sudo su -
+ps -ef
+cd
+ls
+docker pull ubuntu
+sudo su -
+sudo gpasswd -a ${USER} docker
+sudo service docker restart
+sudo service docker.io restart
+ps -ef
+docker ps
+sudo su -
+sudo service docker.io start
+ps -ef
+docker ps
+exit
+docker ps
+id
+ls
+cd dev
+ls
+cd eval10/
+ls
+cd ..
+ls
+mkdir alex2006hw.com
+cd alex2006hw
+ls
+cd alex2006hw.com/
+ls
+git clone sudo groupadd docker
+Add the connected user "${USER}" to the docker group. Change the user name to match your preferred user.
+sudo gpasswd -a ${USER} docker
+Restart the Docker daemon:
+sudo service docker restart
+If you are on Ubuntu 14.04 and up use docker.io instead:
+ls
+cd ..
+rmdir alex2006hw.com/
+cd
+which node
+node --version
+npm install -g yo
+npm install -g generator-ultimate
+ls
+cd ls
+clear
+ps -ef
+ls
+yo ultimate
+ls
+rm Dockerfile Gruntfile.js Procfile 
+more README.md 
+ls
+cd dev
+ls
+mkdir docker
+cd docker/
+yo ultimate
+w
+ls
+more Dockerfile 
+ls
+bower install && npm install
+npm install bower -g
+npm i
+bower i
+ls
+grunt build
+npm install grunt -g
+npm install grunt-cli -g
+ls
+grunt build
+ls
+ls server/
+ls client
+ls
+more Dockerfile 
+docker build -t ultimate-seed .
+ls
+docker ps
+docker ps -a
+docker kill
+w
+exit
