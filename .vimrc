@@ -48,7 +48,6 @@ let g:airline_powerline_fonts=1
 
 " Colors, formatting and syntax highlighting {{{
 syntax on
-colorscheme smyck
 filetype plugin indent on
 set background=dark
 set nowrap
